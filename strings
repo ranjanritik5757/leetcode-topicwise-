@@ -1,2 +1,13 @@
-LC 1177 Can Make Palindrome from Substring ->> 2D hashing prefix
+LC 1177 -> Can Make Palindrome from Substring
+sol -> 2D hashing prefix
+
+
+GOOD PROB
+LC 1915 -> Number of Wonderful Substrings
+wonderful subs is a string where the substring has at most one odd character
+another variation for the problem could be a wonderful subs is a string in which each characters of the substring occurs even number of times.
+sol -> counting even and odd occurances and storing in map
+similar problems : LC 1542 , 1371
+
+
 
