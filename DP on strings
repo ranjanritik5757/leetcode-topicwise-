@@ -1,3 +1,10 @@
 LC 516 -> Longest Palindromic Subsequence
 
-LC 132 -> Palindrome Partitioning 2 (HARD)
+
+
+LC 647 -> Palindromic Substrings
+          BRUTE -> O(N3)
+          DP on string, LC 5 -> O(N2) , O(N2)
+          Expand around center, LC 131( 131. Palindrome Partitioning), LC 132( 132. Palindrome Partitioning II ) O(N2) , O(1)
+          Manchar's Algo -> O(N) , O(N)
+
