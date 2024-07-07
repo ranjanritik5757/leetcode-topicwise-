@@ -7,7 +7,16 @@ LC 1915 -> Number of Wonderful Substrings
 wonderful subs is a string where the substring has at most one odd character
 another variation for the problem could be a wonderful subs is a string in which each characters of the substring occurs even number of times.
 sol -> counting even and odd occurances and storing in map
-similar problems : LC 1542 , 1371
+similar problems : LC 1542 , 
+                   LC 1371(YET TO SOLVE)
+
+
+LC 647 -> Palindromic Substrings
+          BRUTE -> O(N3)
+          DP on string, LC 5 -> O(N2) , O(N2)
+          Expand around center, LC 131( 131. Palindrome Partitioning), LC 132( 132. Palindrome Partitioning II ) O(N2) , O(1)
+          Manchar's Algo -> O(N) , O(N)
+
 
 
 
