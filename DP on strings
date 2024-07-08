@@ -8,3 +8,5 @@ LC 647 -> Palindromic Substrings
           Expand around center, LC 131( 131. Palindrome Partitioning), LC 132( 132. Palindrome Partitioning II ) O(N2) , O(1)
           Manchar's Algo -> O(N) , O(N)
 
+
+1312. Minimum Insertion Steps to Make a String Palindrome (TO DO)
