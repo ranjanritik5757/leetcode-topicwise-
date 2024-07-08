@@ -11,6 +11,12 @@ similar problems : LC 1542 ,
                    LC 1371(YET TO SOLVE)
 
 
+1332. Remove Palindromic Subsequences(EASY)
+sol -> if we cant remove palindromic subsequence , we would remove the similar characters first and there are 2 
+      unique characters , hence the max operations required would be 2.
+
+      answer would be 1 in the case where the string is itself palindrome.
+
 LC 647 -> Palindromic Substrings (DP)
           BRUTE -> O(N3)
           DP on string, LC 5 -> O(N2) , O(N2)
@@ -19,6 +25,8 @@ LC 647 -> Palindromic Substrings (DP)
 
 
 301. Remove Invalid Parentheses (HARD TO DO)
+
+
 
 
 
