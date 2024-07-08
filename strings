@@ -11,12 +11,14 @@ similar problems : LC 1542 ,
                    LC 1371(YET TO SOLVE)
 
 
-LC 647 -> Palindromic Substrings
+LC 647 -> Palindromic Substrings (DP)
           BRUTE -> O(N3)
           DP on string, LC 5 -> O(N2) , O(N2)
           Expand around center, LC 131( 131. Palindrome Partitioning), LC 132( 132. Palindrome Partitioning II ) O(N2) , O(1)
           Manchar's Algo -> O(N) , O(N)
 
+
+301. Remove Invalid Parentheses (HARD TO DO)
 
 
 
