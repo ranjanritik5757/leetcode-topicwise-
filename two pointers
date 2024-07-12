@@ -1,0 +1,11 @@
+1813. Sentence Similarity III  (good use of deque)
+
+
+
+1498. Number of Subsequences That Satisfy the Given Sum Condition
+(IN CASE WHERE POWERS OF 2^(63) something like this is required in that case we pre compute the values)
+
+vector<int> powers(n, 1);
+for (int i = 1; i < n; ++i) {
+    powers[i] = (powers[i - 1] * 2) % MOD;
+}
